@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}% 
+\contentsline {section}{\numberline {2}Experimental Setup}{2}{section.2}% 
+\contentsline {section}{\numberline {3}Measurement Procedure}{2}{section.3}% 
+\contentsline {section}{\numberline {4}Results}{3}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}$I$-$V$ Relation}{3}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}$P$-$V$ and $P$-$R$ Relation}{5}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Maximum Output Power}{9}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}Fill Factor (Single Configuration)}{9}{subsection.4.4}% 
+\contentsline {subsection}{\numberline {4.5}Energy Conversion Efficiency (Single Configuration)}{9}{subsection.4.5}% 
+\contentsline {section}{\numberline {5}Conclusions and Discussion}{10}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}$I$-$V$, $P$-$V$, $P$-$R$ Relation}{10}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}Parameters of the solar cell}{10}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}Causes for errors and uncertainties}{11}{subsection.5.3}% 
+\contentsline {subsection}{\numberline {5.4}Suggestions}{11}{subsection.5.4}% 
+\contentsline {subsection}{\numberline {5.5}Conclusions}{12}{subsection.5.5}% 
+\contentsline {section}{\numberline {A}Measurement Uncertainty Analysis}{13}{appendix.A}% 
+\contentsline {subsection}{\numberline {A.1}Uncertainty of $I$, $V$}{13}{subsection.A.1}% 
+\contentsline {subsection}{\numberline {A.2}Uncertainty of $P$, $R$}{13}{subsection.A.2}% 
+\contentsline {subsection}{\numberline {A.3}Uncertainty of Fill Factor (Single Configuration)}{14}{subsection.A.3}% 
+\contentsline {subsection}{\numberline {A.4}Uncertainty of Energy Conversion Efficiency (Single Configuration)}{15}{subsection.A.4}% 
+\contentsline {section}{\numberline {B}Data Sheet}{16}{appendix.B}% 
